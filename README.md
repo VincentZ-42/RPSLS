@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors, Lizard, Spock Game (RPSLS)
+# Rock, Paper, Scissors, Lizard, Spock Game (RPSLS): [PLAY](https://vincentz-42.github.io/RPSLS/)
 
 ![RPSLS Picture](/images/rpsls.png)
 
